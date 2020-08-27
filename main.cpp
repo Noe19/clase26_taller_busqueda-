@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 
+//esta almacenado en un  archivo
 
 using namespace std;
 void ingresar();
